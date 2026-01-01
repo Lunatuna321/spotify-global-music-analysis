@@ -3,6 +3,8 @@
 **Author:** Luna Li  
 **Affiliation:** University of Washington · Statistics (Data Science Focus)
 
+> For a quick view of clean code, see [`Spotify_Global_Music_Analysis_LunaLi.py`](./Spotify_Global_Music_Analysis_LunaLi.py)
+
 ---
 
 ## Project Overview
